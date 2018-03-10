@@ -6,3 +6,11 @@ C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWeb
 C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
 C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Calculator.Test\obj\Debug\Calculator.Test.dll
 C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Calculator.Test\obj\Debug\Calculator.Test.pdb
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\bin\Debug\Calculator.Test.dll
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\bin\Debug\Calculator.Test.pdb
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\bin\Debug\Claculator.Library.dll
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\bin\Debug\Claculator.Library.pdb
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\obj\Debug\Calculator.Test.dll
+F:\Git\CodeBase\PartyInvitationWebApplication\PartyInvitationWebApplication\Calculator.Test\obj\Debug\Calculator.Test.pdb

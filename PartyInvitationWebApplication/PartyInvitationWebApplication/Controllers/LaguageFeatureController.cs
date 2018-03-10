@@ -119,7 +119,8 @@ namespace PartyInvitationWebApplication.Controllers
                     new Products {Name = "Kayak", Category = "Watersports", Price = 275M},
                     new Products {Name = "Soccer ball", Category = "Soccer", Price = 19.50M},
                     new Products {Name = "Lifejacket", Category = "Watersports", Price = 48.95M},
-                    new Products {Name = "Corner flag", Category = "Soccer", Price = 34.95M}
+                    new Products {Name = "Corner flag", Category = "Soccer", Price = 34.95M},
+                    new Products {Name = "Badminton Bat", Category = "Batminton", Price = 11.95M}
                 };
 
             //var foundProducts = from data in ProductList
@@ -137,7 +138,7 @@ namespace PartyInvitationWebApplication.Controllers
                 //{
                 //    break;
                 //}
-                result.Append(data.Name).Append("--->").Append(data.Price).Append("\t");
+                result.Append(data.Name).Append("--->").Append(data.Price).Append(" || ");
             }
             ViewBag.result = result;
             return View();
