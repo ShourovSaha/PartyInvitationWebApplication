@@ -1,0 +1,8 @@
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\bin\Debug\Caculator.Test.dll
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\bin\Debug\Caculator.Test.pdb
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\bin\Debug\Claculator.Library.dll
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\bin\Debug\Claculator.Library.pdb
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\obj\Debug\Caculator.Test.csprojResolveAssemblyReference.cache
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\obj\Debug\Caculator.Test.dll
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Caculator.Test\obj\Debug\Caculator.Test.pdb

@@ -1,0 +1,36 @@
+﻿@model PartyInvitationWebApplication.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css"/>
+    <title>Thanks</title>
+    <style>
+        body{
+            background-color : #fade5c;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center lead"> 
+        <h2>Thank you @Model.Name</h2>
+        <p>
+            @if (Model.WillAttend == true)
+            {
+                <div style="color:azure" class="card card-header">Thnaks for accept invitation</div>
+            }
+            else
+            {
+                <p style="color:red">Thnaks for your reponse</p>
+            }
+        </p>
+    </div>
+</body>
+</html>

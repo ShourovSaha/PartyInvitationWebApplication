@@ -1,0 +1,5 @@
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Claculator.Library\bin\Debug\Claculator.Library.dll
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Claculator.Library\bin\Debug\Claculator.Library.pdb
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Claculator.Library\obj\Debug\Claculator.Library.csprojResolveAssemblyReference.cache
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Claculator.Library\obj\Debug\Claculator.Library.dll
+C:\Users\shour\OneDrive\Documents\Visual Studio 2015\Projects\PartyInvitationWebApplication\Claculator.Library\obj\Debug\Claculator.Library.pdb

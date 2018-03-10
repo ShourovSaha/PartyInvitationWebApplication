@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>Index</title>
+    <style>
+        body{
+            background-color : #8ed9f2;
+            
+        }
+        .btn a {
+            text-decoration : dashed;
+            font-size : 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center"> 
+        <h2>@ViewBag.message</h2>
+        <h4>Welcome Asshole</h4>
+        @*<button type="submit" name="Submit" class="btn btn-dark">Submit</button>*@
+        <div class="btn btn-light">
+            @Html.ActionLink("Rsvp Form", "RsvpForm")
+        </div>
+        
+    </div>
+</body>
+</html>

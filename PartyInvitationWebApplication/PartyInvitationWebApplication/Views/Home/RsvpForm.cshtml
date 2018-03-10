@@ -1,0 +1,45 @@
+﻿@model PartyInvitationWebApplication.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="~/Content/CustomCss.css"/>
+    <title>RsvpForm</title>
+</head>
+<body>
+    <div class="text-center"> 
+        <div>
+            <h4>R S V P</h4>
+        </div>
+        @using (Html.BeginForm()) {
+            @Html.ValidationSummary()
+            <div class="form-group">
+                <label>Name</label>
+                @Html.TextBoxFor(x => x.Name, new { @class="form-control" })
+            </div>
+            <p>Email : @Html.TextBoxFor(x => x.Email)</p>
+            <p>Phone : @Html.TextBoxFor(x => x.Phone)</p>
+            <div class="form-group">
+                Will Attend ?
+                @Html.DropDownListFor(
+                x => x.WillAttend,
+                new[]
+                {
+                    new SelectListItem() { Value = bool.TrueString, Text = "I'll attend."},
+                    new SelectListItem() {Value=bool.FalseString, Text="I wont attend." }
+                },
+                "Choose One.", new { @class="form-control"}
+               )
+            </div>
+            <input type="submit" value="Submit Rsvp" class="btn btn-success"/>
+        }
+    </div>
+</body>
+</html>
